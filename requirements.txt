@@ -6,9 +6,11 @@ langchain-google-genai>=2.0.0
 langchain-core>=0.3.0
 python-dotenv
 python-multipart
-supabase
+supabase>=2.0.0
 google-auth
 google-auth-oauthlib
+google-auth-httplib2
 google-api-python-client
 Pillow
 PyPDF2
+httpx
