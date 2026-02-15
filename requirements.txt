@@ -1,4 +1,4 @@
-fastapi
+fastapi>=0.104.0
 uvicorn[standard]
 pydantic>=2.0
 langgraph>=0.2.0
@@ -6,7 +6,7 @@ langchain-google-genai>=2.0.0
 langchain-core>=0.3.0
 python-dotenv
 python-multipart
-supabase>=2.0.0
+supabase
 google-auth
 google-auth-oauthlib
 google-auth-httplib2
